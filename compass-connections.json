@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "73f59885-a5b8-4a5a-8fb2-834ac6080c11",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1754693132064"
+        }
+      },
+      "favorite": {
+        "name": "Localhost - Streamhub"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
